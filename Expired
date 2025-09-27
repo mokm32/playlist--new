@@ -38,8 +38,8 @@ div.b-mobile {display:none;}
 <noscript>
   
 #EXTM3U
-#EXTINF:-1 group-title="Error 404!" ch-number="Error" tvg-id="Error" tvg-chno="Error" group-logo="https://i.ibb.co/rfZCXhyW/error.png" tvg-logo="https://i.ibb.co/rfZCXhyW/error.png",Beli di Shopee Kuro Digital
-https://kurodigital.link/vdb8
+#EXTINF:-1 group-title="Expired" group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="Website NeckleNJ" ch-number="100" tvg-name="Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", Order ID👉 Website NeckleNJ
+https://archive.org/download/2025-05-20-23-11-14/2025-05-20%2023-11-14.mp4
 
 
 #EXTM3U billed-msg="Contact Seller - Beli ID baru"
