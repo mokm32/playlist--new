@@ -3,9 +3,9 @@
     <head>
       <title>Expired</title>
     <head>
-    <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
-<meta name='google-adsense-platform-domain' content='blogspot.com'/>
-<!-- --><style type="text/css">@import url(//www.blogger.com/static/v1/v-css/navbar/3334278262-classic.css);
+    <meta name='google-adsense-platform-account' content='https://mokm32.github.io/necklenj-site/'/>
+<meta name='google-adsense-platform-domain' content='github.io'/>
+<!-- --><style type="text/css">@import url(//https://mokm32.github.io/necklenj-site/);
 div.b-mobile {display:none;}
 </style>
 
@@ -25,14 +25,14 @@ div.b-mobile {display:none;}
       gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
         if (gapi.iframes && gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: 'https://www.blogger.com/navbar/7619250562322119677?origin\x3dhttps://backupkuro.blogspot.com',
+              url: 'https://mokm32.github.io/necklenj-site/',
               where: document.getElementById("navbar-iframe-container"),
               id: "navbar-iframe"
           });
         }
       });
     </script>
-      <script> window.location.replace("https://youtu.be/T8yb1q_xMAs"); </script>
+      <script> window.location.replace("https://mokm32.github.io/necklenj-site/"); </script>
     <body>
 <html>
 <noscript>
