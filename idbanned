@@ -1,0 +1,49 @@
+<!--DOCTYPE html-->
+<html>
+    <head>
+      <title>Expired</title>
+    <head>
+    <meta name='google-adsense-platform-account' content='https://mokm32.github.io/necklenj-site/'/>
+<meta name='google-adsense-platform-domain' content='github.io'/>
+<!-- --><style type="text/css">@import url(//https://mokm32.github.io/necklenj-site/);
+div.b-mobile {display:none;}
+</style>
+
+</head><body><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://mokm32.github.io/necklenj-site/',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script>
+      <script> window.location.replace("https://mokm32.github.io/necklenj-site/"); </script>
+    <body>
+<html>
+<noscript>
+  
+#EXTM3U
+#EXTINF:-1 group-title="Banned" group-logo="https://i.ibb.co/S7NXZnN2/banned.jpg" tvg-id="ID BANNED" ch-number="100" tvg-name="ID BANNED" tvg-logo="https://i.ibb.co/S7NXZnN2/banned.jpg", ID BANNED!
+https://i.ibb.co/S7NXZnN2/banned.jpg
+
+
+#EXTM3U billed-msg="Order ID Dekat WEBSITE https://mokm32.github.io/necklenj-site/ or Beli di Kedai Shopee NeckleNJ"
+  
+</script>
+</body>
+</html>
